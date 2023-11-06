@@ -1,0 +1,32 @@
+﻿h2 {
+    color: floralwhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+h3 {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.container-size {
+    border: 1px solid #757D75;
+    background-color: burlywood;
+    width: 800px;
+    margin-top: 100px;
+}
+
+.textbox {
+    width: 300px;
+    height: 40px
+}
+
+.btton-size {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color: antiquewhite;
+    font-weight: bold;
+}
